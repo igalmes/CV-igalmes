@@ -11,8 +11,13 @@
     font-size: 20px;
 }
 
-@media screen and (min-width: 600px) {
-    .fa-bars {
+@media screen and (max-width: 900px) {
+    #mylinks {
+      display: none;
+    }
+}
+@media screen and (min-width: 900px) {
+    #hambur{
       display: none;
     }
 }
