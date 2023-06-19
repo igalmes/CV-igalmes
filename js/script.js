@@ -5,15 +5,15 @@
 //     });
 
 // }
-function saludo (nombre){
-    swal(`Hola ${nombre} gracias por visitarnos, no olvides likear mi página`);
-}
+// function saludo (nombre){
+//     swal(`Hola ${nombre} gracias por visitarnos, no olvides likear mi página`);
+// }
 
 
-function saludoUsuario(cb) {
-    var nombre = prompt('Ingresa tu nombre');
-    cb(nombre);
+// function saludoUsuario(cb) {
+//     var nombre = prompt('Ingresa tu nombre');
+//     cb(nombre);
     
-}
+// }
 
-saludoUsuario(saludo);
+// saludoUsuario(saludo);

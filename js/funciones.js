@@ -4,13 +4,13 @@
 // }, 120000);
 
 
-function menu () {
-    var x = document.getElementById("mylinks");
-    if (x.style.display === "block") {
-    x.style.display = "none";
-    } else {x.style.display = "block";
-    }
-}
+// function menu () {
+//     var x = document.getElementById("mylinks");
+//     if (x.style.display === "block") {
+//     x.style.display = "none";
+//     } else {x.style.display = "block";
+//     }
+// }
 
 
 // const toggle = (element) => {
